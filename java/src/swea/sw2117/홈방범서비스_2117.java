@@ -1,4 +1,4 @@
-package swea.swea2117;
+package swea.sw2117;
 
 import java.util.*;
 import java.io.*;
